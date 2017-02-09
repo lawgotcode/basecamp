@@ -18,3 +18,48 @@ body {
 .mw7 {
   max-width: 48rem;
 }
+
+.mt5 {
+  margin-top: 4rem;
+}
+
+.highlight-header {
+  position: relative;
+  z-index: 1;
+}
+
+.tl {
+  text-align: left;
+}
+
+.w-auto {
+  width: auto;
+}
+
+.dib {
+  display: inline-block;
+}
+
+p a {
+  color: green;
+  text-decoration: none;
+}
+
+.center {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.mv6 {
+  margin-top: 4rem;
+  margin-bottom: 8rem;
+}
+
+.o-50 {
+  opacity: .5;
+}
+
+.bt {
+  border-top-style: solid;
+  border-top-width: 1px;
+}
